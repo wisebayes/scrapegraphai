@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="scrapegraphai",
-    version="0.1.0",
+    version="1.52.0",
     author="wisebayes",
     description="A Python library for intelligent web scraping using graph-based approaches",
     long_description=long_description,
