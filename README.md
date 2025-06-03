@@ -1,4 +1,4 @@
-# ScrapeGraphAI
+# Customizations to ScrapeGraphAI
 
 A Python library for intelligent web scraping using graph-based approaches.
 
